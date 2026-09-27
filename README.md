@@ -8,7 +8,7 @@ better at Javascript/JQuery, HTML/CSS and Python/Django
 - 💞️ I’m looking to collaborate on how to get Safari to like my site.  I have been doing development work in Eclipse/Chrome.  It seems Safari wants JQuery...  My site kinda doesn't work
 in Safari and I don't really have time to debug that and add new material.  Plus, Safari expects you to buy a Mac if you want to have full debug mode in Safari (THANK you Google for 
 not making such expensive requirements to debug on Chrome)
-- 📫 How to reach me:  cathy.demeyer@yahoo.com
+- 📫 
 
 <!---
 ccdm-edu/ccdm-edu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
